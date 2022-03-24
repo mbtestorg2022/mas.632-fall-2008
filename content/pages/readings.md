@@ -136,7 +136,7 @@ Arons, B. "A Review of the Cocktail Party Effect." _Journal of the American Voic
 
 Mullins, M., and C. Schmandt. "[AudioStreamer: Exploring Simultaneity for Listening](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.63.1749&rep=rep1&type=pdf)." _Proceedings of CHI 1995_.
 
-Kobayashi, M., and C. Schmandt. "Dynamic Soundscape: Mapping Time to Space for Audio Browsing." _Proceedings of CHI 1997_. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.media.mit.edu/speech/papers/1997/kobayashi_CHI97_dynamic_soundscape.pdf))
+Kobayashi, M., and C. Schmandt. "Dynamic Soundscape: Mapping Time to Space for Audio Browsing." _Proceedings of CHI 1997_. ([PDF](http://www.media.mit.edu/speech/papers/1997/kobayashi_CHI97_dynamic_soundscape.pdf))
 
 Schmandt, chapter 4. (skim)
 
@@ -160,7 +160,7 @@ Pisoni, D. B., H. C. Nusbaum, and B. G. Greene. "[Perception of Synthetic Speech
 
 Lai, J., D. Wood, and M. Considine. "[The Effect of Task Conditions on the Comprehensibility of Synthetic Speech](http://doi.acm.org/10.1145/332040.332451)." _Proceedings of CHI 2000_, The Hague, Netherlands.
 
-Gong, L., and J. Lai. "[Shall We Mix Synthetic Speech and Human Speech?: Impact on User's Performance, Perception, and Attitude](http://doi.acm.org/10.1145/332040.332451)." _Proceedings of CHI 2001_, Seattle, WA. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.csis.pace.edu/~ctappert/dps/pdf/lai/mix.pdf))
+Gong, L., and J. Lai. "[Shall We Mix Synthetic Speech and Human Speech?: Impact on User's Performance, Perception, and Attitude](http://doi.acm.org/10.1145/332040.332451)." _Proceedings of CHI 2001_, Seattle, WA. ([PDF](http://www.csis.pace.edu/~ctappert/dps/pdf/lai/mix.pdf))
 
 Lai, J., K. Cheng, P. Green, and O. Tsimhoni. "[On the Road and on the Web?: Comprehension of Synthetic and Human Speech While Driving](http://doi.acm.org/10.1145/365024.365100)." _Proceedings of CHI 2001_, Seattle, WA.
 
@@ -198,9 +198,9 @@ Rudnicky, A., and A. Hauptman. "[Models for Evaluating Interaction Protocols in 
 
 Suhm, B., et. al. "[A Comparative Study of Speech in the Call Center: Natural Language Call Routing vs. Touch-tone Menus](http://doi.acm.org/10.1145/503376.503427)." _Proceedings of CHI 2002_, Minneapolis, MN.
 
-Walker, M. A., et al. "[What can I say? Evaluating a spoken language interface to email](http://doi.acm.org/10.1145/274644.274722)." _Proceedings of CHI 1998_, Los Angeles, CA. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.difabbrizio.com/papers/chi98-elvis.pdf))
+Walker, M. A., et al. "[What can I say? Evaluating a spoken language interface to email](http://doi.acm.org/10.1145/274644.274722)." _Proceedings of CHI 1998_, Los Angeles, CA. ([PDF](http://www.difabbrizio.com/papers/chi98-elvis.pdf))
 
-Yankelovich, N., et al. "[Designing SpeechActs: Issues in Speech User Interfaces](http://doi.acm.org/10.1145/223904.223952)." _Proceedings of CHI 1995_, Denver, CO. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.media.mit.edu/speech/papers/1995/yankelovich_CHI95_speechacts.pdf))
+Yankelovich, N., et al. "[Designing SpeechActs: Issues in Speech User Interfaces](http://doi.acm.org/10.1145/223904.223952)." _Proceedings of CHI 1995_, Denver, CO. ([PDF](http://www.media.mit.edu/speech/papers/1995/yankelovich_CHI95_speechacts.pdf))
 
 Marx, M., and C. Schmadt. "[MailCall: Message Presentation and Navigation in a Nonvisual Environment](http://doi.acm.org/10.1145/238386.238467)." _Proceedings of CHI 1996_, Vancouver, BC.
 
@@ -226,7 +226,7 @@ Ranjan, A., et al. "[Searching in Audio: The Utility of Transcripts, Dichotic Pr
 
 Whittaker, S., et al. "[SCANMail: A Voicemail Interface that Makes Speech Browsable, Readable, and Searchable](http://doi.acm.org/10.1145/503376.503426)." _Proceedings of CHI 2003_, Minneapolis, MN.
 
-Vemuri, S., and W. Bender. "Next-generation Personal Memory Aids." _BT Technology Journal_ 22, no. 4 (October 2004): 125-138. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://web.media.mit.edu/~vemuri/research-pub/iremember-btj2004.pdf))
+Vemuri, S., and W. Bender. "Next-generation Personal Memory Aids." _BT Technology Journal_ 22, no. 4 (October 2004): 125-138. ([PDF](http://web.media.mit.edu/~vemuri/research-pub/iremember-btj2004.pdf))
 
 Tucker, S., and S. Whitaker. "[Time is of the Eessence: An Evaluation of Temporal Compression Algorithms](http://doi.acm.org/10.1145/1124772.1124822)." _Proceedings of CHI 2006_, Montréal, Québec, Canada.
 
@@ -250,9 +250,9 @@ Duncan, S. "Some Signals and Rules for Taking Speaking Turns in Conversations." 
 
 Goffman, Erving. "Replies and Responses." Chapter 1 in _Forms of Talk_. Philadelphia, PA: University of Pennsylvania Press, 1981, pp. 5-77. ISBN: 9780812211122. \[[Preview](http://books.google.com/books?id=Z3bvx_T4Zu8C&pg=PA1&source=gbs_toc_r&cad=0_0#PPA5,M1) this chapter in Google Books.\]
 
-Grosz, B., and C. Sidner. "Attention, Intentions, and the Structure of Discourse." _Computational Linguistics_ 12, no. 3 (July-September, 1986): 176-204. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.9 MB](http://nlp.stanford.edu/acvogel/groszsidner.pdf))
+Grosz, B., and C. Sidner. "Attention, Intentions, and the Structure of Discourse." _Computational Linguistics_ 12, no. 3 (July-September, 1986): 176-204. ([PDF - 2.9 MB](http://nlp.stanford.edu/acvogel/groszsidner.pdf))
 
-Clark, H., and S. Brennan. "Grounding in Communication." Chapter 7 in _Perspectives on Socially Shared Cognition_. Edited by L. Resnick, J. Levine, and S. Teasley. Washington DC: American Psychological Association, 1991. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.psychology.sunysb.edu/sbrennan-/papers/clarkbrennan.pdf))
+Clark, H., and S. Brennan. "Grounding in Communication." Chapter 7 in _Perspectives on Socially Shared Cognition_. Edited by L. Resnick, J. Levine, and S. Teasley. Washington DC: American Psychological Association, 1991. ([PDF](http://www.psychology.sunysb.edu/sbrennan-/papers/clarkbrennan.pdf))
 
 
 {{< tdclose >}}
@@ -272,7 +272,7 @@ Nowak, K., and C. Rauh. "[The Influence of the Avatar on Online Perceptions of A
 
 Lampel, J., and A. Bhalla. "[The Role of Status Seeking in Online Communities: Giving the Gift of Experience](http://jcmc.indiana.edu/vol12/issue2/lampel.html)." _Journal of Computer Mediated Communication_ 12, no. 2 (2007).
 
-Ren, Y., R. Kraut, and S. Kiesler. "Applying Common Identity and Bond Theory to Design of Online Communities." _Organizational Studies_ 28 (2007): 377. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.cmu.edu/~kraut/RKraut.site.files/articles/Ren07-ApplyingCommonIdentityCommonBondToDesignOfCommunities.pdf))
+Ren, Y., R. Kraut, and S. Kiesler. "Applying Common Identity and Bond Theory to Design of Online Communities." _Organizational Studies_ 28 (2007): 377. ([PDF](http://www.cs.cmu.edu/~kraut/RKraut.site.files/articles/Ren07-ApplyingCommonIdentityCommonBondToDesignOfCommunities.pdf))
 
 Davis, F. "Do Clothes Speak? What Makes them Fashion?" Chapter 1 in _Fashion, Culture, and Identity_. Chicago, IL: University of Chicago Press, 1994. ISBN: 9780226138091. \[[Preview](http://books.google.com/books?id=p-KvoXTYtVoC&printsec=frontcover#PPA1,M1) this chapter in Google Books.\]
 
@@ -292,9 +292,9 @@ Presence and being there
 {{< tdopen >}}
 
 
-Zhao, S. "Towards a Taxonomy of Copresence." _Presence_ 12, no. 5 (October 2003): 445-455. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif) [PDF](http://www.mitpressjournals.org/doi/pdf/10.1162/105474603322761261))
+Zhao, S. "Towards a Taxonomy of Copresence." _Presence_ 12, no. 5 (October 2003): 445-455. ( [PDF](http://www.mitpressjournals.org/doi/pdf/10.1162/105474603322761261))
 
-Casanueva, J., and E. Blake. "The Effects of Group Collaboration on Presence in a Collaborative Virtual Environment." _Proceedings of Eurographics Workshop on Virtual Environments_, 2000. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://pubs.cs.uct.ac.za/archive/00000285/01/CS00-07-00.pdf))
+Casanueva, J., and E. Blake. "The Effects of Group Collaboration on Presence in a Collaborative Virtual Environment." _Proceedings of Eurographics Workshop on Virtual Environments_, 2000. ([PDF](http://pubs.cs.uct.ac.za/archive/00000285/01/CS00-07-00.pdf))
 
 Hollan, J., and S. Stornetta. "[Beyond Being There](http://doi.acm.org/10.1145/142750.142769)." _Proceedings of the Conference on Human Factors in Computing Systems 1992_, Monterey, CA.
 
