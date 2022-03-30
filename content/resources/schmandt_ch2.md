@@ -4,6 +4,7 @@ description: Chapter excerpted from the course textbook with an overview of the 
   and perception of speech.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/mas-632-conversational-computer-systems-fall-2008/749014d331b19ed0ea12f9de4ede665a_schmandt_ch2.pdf
 file_type: application/pdf
+parent_uid: 162f8cc3-ab62-9ebf-bf11-9334b6618eaf
 resourcetype: Document
 title: Speech Production and Perception
 uid: 749014d3-31b1-9ed0-ea12-f9de4ede665a
